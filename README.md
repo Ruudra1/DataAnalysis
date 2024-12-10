@@ -1,6 +1,6 @@
 # Dashboards
 
-## Restaurant Inspection Summary Dashboard
+## 1. Restaurant Inspection Summary Dashboard
 
 ## Overview
 
@@ -35,7 +35,7 @@ This project demonstrates actionable insights for stakeholders in the food servi
 
 ---
 
-# BingeBox Analytics Dashboard
+## 2. BingeBox Analytics Dashboard
 
 ## Overview
 
