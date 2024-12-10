@@ -1,4 +1,4 @@
-#Dashboards
+# Dashboards
 
 ## Restaurant Inspection Summary Dashboard
 
